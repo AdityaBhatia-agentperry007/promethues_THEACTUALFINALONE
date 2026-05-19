@@ -1,0 +1,35 @@
+[project]
+name = "promethues"
+version = "0.1.0"
+description = "Confidential physics-as-a-service platform."
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi",
+  "uvicorn",
+  "pydantic",
+  "numpy",
+  "typer",
+  "rich",
+  "python-dotenv",
+  "openai",
+  "anthropic",
+  "huggingface_hub",
+  "python-multipart",
+  "google-cloud-storage",
+  "google-cloud-aiplatform",
+  "manim"
+]
+
+[project.optional-dependencies]
+ml = [
+  "the_well",
+  "torch"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["backend*"]
+
+[tool.vercel]
+entrypoint = "backend.app:app"
+

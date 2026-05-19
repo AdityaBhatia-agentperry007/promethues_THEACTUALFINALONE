@@ -1,0 +1,61 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.egg
+
+# === Environment & Secrets ===
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.crt
+
+# === Node / Frontend ===
+node_modules/
+.next/
+.vercel/
+package-lock.json
+
+# === IDE & OS ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# === Model weights (large binaries) ===
+backend/models/*.pt
+backend/models/*.pth
+backend/models/*.onnx
+backend/models/*.bin
+
+# === Data files ===
+backend/data/*.npz
+backend/data/*.json
+!backend/data/__init__.py
+
+# === Build artifacts & logs ===
+checkpoints.log
+PATHS.json
+*.log
+
+# === Archives ===
+*.zip
+
+# === Kaggle outputs ===
+kaggle/outputs/
+kaggle/outputs_post_merger/
+kaggle/generated/
+
+# === Gemini / AI assistant ===
+.gemini/
+exports/

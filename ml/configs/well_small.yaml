@@ -1,0 +1,4 @@
+data: MHD_64_small_slice
+fallback: synthetic_fallback
+note: fetch_well.py must inspect live shard listings before hardcoding any file name.
+

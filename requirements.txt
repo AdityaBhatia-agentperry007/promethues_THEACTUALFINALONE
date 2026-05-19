@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+numpy
+typer
+rich
+python-dotenv
+openai
+anthropic
+pytest
+huggingface_hub
+manim
+google-cloud-aiplatform
+google-cloud-storage
+python-multipart

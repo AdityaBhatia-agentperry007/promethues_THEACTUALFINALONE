@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PROMETHEUS Pitch Deck</title>
+  <style>
+    body { margin: 0; font-family: Consolas, monospace; background: #fff; color: #000; }
+    section { min-height: 100vh; padding: 56px; border-bottom: 2px solid #000; box-sizing: border-box; }
+    h1 { font-size: 44px; margin: 0 0 24px; }
+    h2 { font-size: 28px; margin: 0 0 18px; }
+    p, li { font-size: 20px; line-height: 1.45; max-width: 980px; }
+    code { border: 1px solid #000; padding: 2px 5px; }
+  </style>
+</head>
+<body>
+  <section><h1>PROMETHEUS</h1><p>Confidential physics-as-a-service with honest simulation provenance.</p></section>
+  <section><h2>Problem</h2><p>In science platforms, the request can leak the research program. A shared simulator should not automatically learn which scenario a lab is running.</p></section>
+  <section><h2>Product</h2><p>Type a physics task. Get a routed simulation, frame-by-frame output, dataset provenance, model status, and privacy-preserving retrieval.</p></section>
+  <section><h2>Demo Presets</h2><ul><li>MHD trained checkpoint</li><li>Black-hole route with checkpoint warning</li><li>Supernova</li><li>Acoustic maze</li><li>Convection</li><li>Reaction diffusion</li><li>Shear flow</li><li>Planetary flow</li></ul></section>
+  <section><h2>Privacy</h2><p>Two-server PIR hides the selected scenario index from either single non-colluding server.</p></section>
+  <section><h2>Safety</h2><p>The UI refuses fake provenance. Missing route checkpoints are visible in the first viewport.</p></section>
+  <section><h2>What Is Real</h2><ul><li>FastAPI backend</li><li>Next.js frontend</li><li>The Well MHD checkpoint</li><li>CGKS and DPF PIR</li><li>Verification harness</li></ul></section>
+  <section><h2>Roadmap</h2><p>Train route-specific checkpoints, deploy non-colluding servers, harden MPC, and add audited model cards.</p></section>
+</body>
+</html>
