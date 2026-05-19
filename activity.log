@@ -1,1 +1,1 @@
-[2026-05-19T16:42:14] perf(ci): add unit test for CGKS fallback
+[2026-05-19T16:43:01] feat(mpc): add error handling for invalid input
