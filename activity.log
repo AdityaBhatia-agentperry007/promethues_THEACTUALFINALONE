@@ -1,1 +1,1 @@
-[2026-05-19T20:10:43] chore(backend): bump dependency versions
+[2026-05-19T20:15:57] refactor(backend): reduce memory footprint of checkpoints
