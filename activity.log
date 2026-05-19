@@ -1,1 +1,1 @@
-[2026-05-19T14:51:36] test(cli): bump dependency versions
+[2026-05-19T15:02:12] perf(tests): fix memory leak in simulation runner
