@@ -1,1 +1,1 @@
-[2026-05-19T15:02:12] perf(tests): fix memory leak in simulation runner
+[2026-05-19T15:03:10] refactor(pir): improve logging clarity
