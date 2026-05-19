@@ -1,1 +1,1 @@
-[2026-05-19T09:20:04] fix(cli): fix memory leak in simulation runner
+[2026-05-19T09:28:22] fix(pir): improve logging clarity
