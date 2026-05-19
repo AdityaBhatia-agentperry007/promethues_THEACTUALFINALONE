@@ -1,1 +1,1 @@
-[2026-05-19T21:59:27] docs(cli): refactor rendering logic
+[2026-05-19T22:13:27] perf(frontend): add unit test for CGKS fallback
