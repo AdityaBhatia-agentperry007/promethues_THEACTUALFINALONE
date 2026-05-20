@@ -1,1 +1,1 @@
-[2026-05-20T17:50:27] chore(pir): fix memory leak in simulation runner
+[2026-05-20T17:51:46] refactor(mpc): update environment variable placeholders
