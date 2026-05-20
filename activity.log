@@ -1,1 +1,1 @@
-[2026-05-20T10:31:49] refactor(cli): clean up debug log files
+[2026-05-20T10:31:50] style(tests): fix memory leak in simulation runner
