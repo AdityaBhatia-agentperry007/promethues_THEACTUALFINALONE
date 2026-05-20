@@ -1,1 +1,1 @@
-[2026-05-20T23:07:02] refactor(tests): add unit test for CGKS fallback
+[2026-05-20T23:20:00] perf(docs): handle exception in connection pool
