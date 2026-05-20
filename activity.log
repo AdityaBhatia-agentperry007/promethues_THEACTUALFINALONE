@@ -1,1 +1,1 @@
-[2026-05-20T20:57:19] fix(mpc): fix memory leak in simulation runner
+[2026-05-20T21:06:34] fix(ci): clean up debug log files
