@@ -1,1 +1,1 @@
-[2026-05-21T04:48:56] test(frontend): reduce memory footprint of checkpoints
+[2026-05-21T04:57:11] test(emulator): add unit test for CGKS fallback
