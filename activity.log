@@ -1,1 +1,1 @@
-[2026-05-21T15:53:40] perf(mpc): adjust margin spacing
+[2026-05-21T16:35:07] chore(frontend): fix memory leak in simulation runner
