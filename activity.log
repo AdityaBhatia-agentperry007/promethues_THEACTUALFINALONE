@@ -1,1 +1,1 @@
-[2026-05-22T04:27:55] test(frontend): add support for additional presets
+[2026-05-22T04:29:15] perf(mpc): fix memory leak in simulation runner
