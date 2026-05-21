@@ -1,1 +1,1 @@
-[2026-05-21T06:54:39] docs(tests): optimize array boundary checks
+[2026-05-21T06:55:50] test(pir): reduce memory footprint of checkpoints
