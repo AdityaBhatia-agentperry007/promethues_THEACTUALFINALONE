@@ -1,1 +1,1 @@
-[2026-05-22T01:33:38] refactor(pir): fix typing issues in backend app
+[2026-05-22T01:35:28] refactor(pir): handle exception in connection pool
