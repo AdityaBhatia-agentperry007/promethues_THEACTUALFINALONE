@@ -1,1 +1,1 @@
-[2026-05-22T07:43:15] fix(emulator): fix memory leak in simulation runner
+[2026-05-22T07:52:00] fix(ui): refactor DPF key generation
