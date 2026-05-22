@@ -1,1 +1,1 @@
-[2026-05-22T21:51:03] refactor(ci): resolve edge case in simulation
+[2026-05-22T21:54:44] perf(emulator): fix memory leak in simulation runner
