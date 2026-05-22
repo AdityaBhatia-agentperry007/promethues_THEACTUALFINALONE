@@ -1,1 +1,1 @@
-[2026-05-23T03:41:14] docs(tests): fix memory leak in simulation runner
+[2026-05-23T03:42:59] perf(docs): reduce memory footprint of checkpoints
