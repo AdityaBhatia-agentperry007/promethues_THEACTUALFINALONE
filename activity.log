@@ -1,1 +1,1 @@
-[2026-05-23T05:07:25] fix(cli): update environment variable placeholders
+[2026-05-23T05:10:19] perf(tests): improve error messages for CLI commands
