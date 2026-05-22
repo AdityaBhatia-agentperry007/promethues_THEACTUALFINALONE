@@ -1,1 +1,1 @@
-[2026-05-22T21:54:44] perf(emulator): fix memory leak in simulation runner
+[2026-05-22T22:01:11] perf(ui): improve error messages for CLI commands
