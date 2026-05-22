@@ -1,1 +1,1 @@
-[2026-05-22T10:47:54] fix(frontend): fix typing issues in backend app
+[2026-05-22T11:00:54] refactor(backend): fix memory leak in simulation runner
