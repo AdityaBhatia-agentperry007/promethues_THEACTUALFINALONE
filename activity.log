@@ -1,1 +1,1 @@
-[2026-05-22T09:05:17] style(docs): reduce memory footprint of checkpoints
+[2026-05-22T09:16:24] style(backend): add error handling for invalid input
