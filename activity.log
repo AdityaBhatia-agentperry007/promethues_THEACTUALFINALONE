@@ -1,1 +1,1 @@
-[2026-05-22T18:31:31] refactor(tests): update runbook with port settings
+[2026-05-22T19:00:29] fix(emulator): fix memory leak in simulation runner
