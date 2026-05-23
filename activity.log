@@ -1,1 +1,1 @@
-[2026-05-23T06:55:31] feat(emulator): implement caching for static routes
+[2026-05-23T07:07:39] fix(tests): fix memory leak in simulation runner
