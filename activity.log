@@ -1,1 +1,1 @@
-[2026-05-23T15:17:01] test(backend): improve logging clarity
+[2026-05-23T15:33:02] refactor(backend): handle exception in connection pool
