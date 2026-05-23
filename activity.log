@@ -1,1 +1,1 @@
-[2026-05-23T20:09:46] test(ci): reduce memory footprint of checkpoints
+[2026-05-23T20:32:07] fix(emulator): streamline garbled circuit comparison
