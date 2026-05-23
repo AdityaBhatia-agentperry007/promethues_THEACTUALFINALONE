@@ -1,1 +1,1 @@
-[2026-05-23T05:18:16] refactor(cli): fix memory leak in simulation runner
+[2026-05-23T05:57:51] style(emulator): optimize array boundary checks
