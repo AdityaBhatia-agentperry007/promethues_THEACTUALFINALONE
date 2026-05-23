@@ -1,1 +1,1 @@
-[2026-05-23T19:07:33] perf(emulator): reduce memory footprint of checkpoints
+[2026-05-23T19:10:55] refactor(frontend): add error handling for invalid input
