@@ -1,1 +1,1 @@
-[2026-05-24T00:06:25] chore(frontend): add error handling for invalid input
+[2026-05-24T00:07:54] test(pir): fix memory leak in simulation runner
