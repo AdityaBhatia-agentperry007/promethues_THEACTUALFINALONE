@@ -1,1 +1,1 @@
-[2026-05-24T19:20:33] perf(frontend): resolve edge case in simulation
+[2026-05-24T19:43:57] chore(mpc): add unit test for CGKS fallback
