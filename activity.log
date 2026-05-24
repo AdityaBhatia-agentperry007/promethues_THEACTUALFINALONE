@@ -1,1 +1,1 @@
-[2026-05-24T18:09:31] refactor(emulator): format trailing whitespace
+[2026-05-24T18:11:45] refactor(emulator): add unit test for CGKS fallback
