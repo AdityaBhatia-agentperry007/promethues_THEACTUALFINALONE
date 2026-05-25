@@ -1,1 +1,1 @@
-[2026-05-25T07:52:58] docs(cli): optimize array boundary checks
+[2026-05-25T08:29:18] refactor(backend): handle exception in connection pool
