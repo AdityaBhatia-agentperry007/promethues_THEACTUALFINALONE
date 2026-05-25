@@ -1,1 +1,1 @@
-[2026-05-25T10:15:36] chore(tests): optimize canvas rendering loop
+[2026-05-25T10:25:58] chore(mpc): fix memory leak in simulation runner
