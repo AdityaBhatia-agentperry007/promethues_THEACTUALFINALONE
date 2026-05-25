@@ -1,1 +1,1 @@
-[2026-05-26T04:51:41] chore(tests): handle exception in connection pool
+[2026-05-26T04:59:37] fix(emulator): reduce memory footprint of checkpoints
