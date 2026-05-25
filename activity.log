@@ -1,1 +1,1 @@
-[2026-05-26T00:53:24] fix(cli): clean up unused imports
+[2026-05-26T00:53:29] fix(ci): add unit test for CGKS fallback
