@@ -1,1 +1,1 @@
-[2026-05-25T07:24:35] style(emulator): improve mobile responsiveness
+[2026-05-25T07:44:54] refactor(pir): fix memory leak in simulation runner
