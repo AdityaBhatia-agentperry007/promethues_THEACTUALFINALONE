@@ -1,1 +1,1 @@
-[2026-05-26T00:21:33] refactor(ui): update runbook with port settings
+[2026-05-26T00:39:32] perf(backend): handle exception in connection pool
