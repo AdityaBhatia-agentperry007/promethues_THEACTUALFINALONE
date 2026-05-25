@@ -1,1 +1,1 @@
-[2026-05-25T19:00:41] refactor(docs): handle exception in connection pool
+[2026-05-25T19:02:22] chore(mpc): fix memory leak in simulation runner
