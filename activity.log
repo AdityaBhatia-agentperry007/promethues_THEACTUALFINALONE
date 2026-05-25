@@ -1,1 +1,1 @@
-[2026-05-25T09:52:57] fix(tests): update license headers in source files
+[2026-05-25T10:01:26] feat(tests): handle exception in connection pool
