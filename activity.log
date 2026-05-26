@@ -1,1 +1,1 @@
-[2026-05-26T21:15:20] test(pir): update license headers in source files
+[2026-05-26T21:16:25] test(frontend): fix memory leak in simulation runner
