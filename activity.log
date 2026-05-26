@@ -1,1 +1,1 @@
-[2026-05-27T04:31:31] fix(ui): bump dependency versions
+[2026-05-27T04:43:44] perf(tests): reduce memory footprint of checkpoints
