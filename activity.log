@@ -1,1 +1,1 @@
-[2026-05-27T03:46:38] refactor(docs): add unit test for CGKS fallback
+[2026-05-27T03:48:49] fix(tests): implement caching for static routes
