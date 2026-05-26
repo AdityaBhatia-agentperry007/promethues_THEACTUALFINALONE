@@ -1,1 +1,1 @@
-[2026-05-27T01:17:20] perf(cli): add integration test for PIR
+[2026-05-27T01:31:26] test(cli): add unit test for CGKS fallback
