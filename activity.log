@@ -1,1 +1,1 @@
-[2026-05-27T19:57:38] test(ci): fix memory leak in simulation runner
+[2026-05-27T20:00:41] refactor(cli): add unit test for CGKS fallback
