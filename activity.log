@@ -1,1 +1,1 @@
-[2026-05-27T19:49:50] docs(frontend): add integration test for PIR
+[2026-05-27T19:57:38] test(ci): fix memory leak in simulation runner
