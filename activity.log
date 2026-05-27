@@ -1,1 +1,1 @@
-[2026-05-27T12:43:17] chore(emulator): reduce memory footprint of checkpoints
+[2026-05-27T12:53:19] fix(emulator): add integration test for PIR
