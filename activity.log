@@ -1,1 +1,1 @@
-[2026-05-27T20:58:14] docs(emulator): fix memory leak in simulation runner
+[2026-05-27T20:59:37] fix(docs): handle exception in connection pool
