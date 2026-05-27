@@ -1,1 +1,1 @@
-[2026-05-27T10:47:54] chore(emulator): optimize array boundary checks
+[2026-05-27T10:48:06] fix(docs): handle exception in connection pool
