@@ -1,1 +1,1 @@
-[2026-05-28T11:30:14] style(emulator): handle exception in connection pool
+[2026-05-28T11:32:58] perf(frontend): fix memory leak in simulation runner
