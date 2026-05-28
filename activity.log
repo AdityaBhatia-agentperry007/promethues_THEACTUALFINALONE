@@ -1,1 +1,1 @@
-[2026-05-29T01:03:40] style(tests): clean up debug log files
+[2026-05-29T01:06:16] refactor(cli): add error handling for invalid input
