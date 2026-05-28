@@ -1,1 +1,1 @@
-[2026-05-28T19:53:46] refactor(ci): optimize canvas rendering loop
+[2026-05-28T20:20:28] fix(tests): fix memory leak in simulation runner
