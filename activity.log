@@ -1,1 +1,1 @@
-[2026-05-28T05:31:11] docs(cli): resolve edge case in simulation
+[2026-05-28T05:57:33] feat(cli): handle exception in connection pool
