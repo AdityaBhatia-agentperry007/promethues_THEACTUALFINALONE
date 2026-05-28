@@ -1,1 +1,1 @@
-[2026-05-28T10:26:09] refactor(tests): add unit test for CGKS fallback
+[2026-05-28T10:39:28] test(pir): add error handling for invalid input
