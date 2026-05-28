@@ -1,1 +1,1 @@
-[2026-05-28T21:28:20] fix(cli): optimize canvas rendering loop
+[2026-05-28T21:34:47] style(backend): handle exception in connection pool
