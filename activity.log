@@ -1,1 +1,1 @@
-[2026-05-29T20:32:30] test(mpc): clean up unused imports
+[2026-05-29T20:36:05] style(ci): reduce memory footprint of checkpoints
