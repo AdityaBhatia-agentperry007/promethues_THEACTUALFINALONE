@@ -1,1 +1,1 @@
-[2026-05-29T18:41:57] fix(tests): reduce memory footprint of checkpoints
+[2026-05-29T18:51:42] fix(mpc): improve error messages for CLI commands
