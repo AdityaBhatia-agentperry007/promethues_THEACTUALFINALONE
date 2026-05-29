@@ -1,1 +1,1 @@
-[2026-05-30T05:03:33] perf(mpc): fix memory leak in simulation runner
+[2026-05-30T05:05:24] fix(cli): improve logging clarity
