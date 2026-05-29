@@ -1,1 +1,1 @@
-[2026-05-29T18:36:14] test(backend): add integration test for PIR
+[2026-05-29T18:41:57] fix(tests): reduce memory footprint of checkpoints
