@@ -1,1 +1,1 @@
-[2026-05-29T09:51:32] feat(tests): fix typing issues in backend app
+[2026-05-29T09:54:33] refactor(tests): reduce memory footprint of checkpoints
