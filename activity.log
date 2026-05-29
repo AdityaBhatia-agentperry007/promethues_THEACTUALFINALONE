@@ -1,1 +1,1 @@
-[2026-05-29T17:22:01] docs(backend): optimize database queries
+[2026-05-29T17:34:30] fix(pir): reduce memory footprint of checkpoints
