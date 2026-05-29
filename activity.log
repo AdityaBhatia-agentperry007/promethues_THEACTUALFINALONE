@@ -1,1 +1,1 @@
-[2026-05-30T01:56:46] feat(cli): reduce memory footprint of checkpoints
+[2026-05-30T02:00:31] feat(frontend): fix memory leak in simulation runner
