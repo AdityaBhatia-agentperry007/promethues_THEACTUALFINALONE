@@ -1,1 +1,1 @@
-[2026-05-30T00:38:41] style(mpc): improve logging clarity
+[2026-05-30T00:52:12] feat(tests): fix memory leak in simulation runner
