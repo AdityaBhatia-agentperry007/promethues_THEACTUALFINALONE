@@ -1,1 +1,1 @@
-[2026-05-30T03:56:38] fix(ci): add support for additional presets
+[2026-05-30T03:59:04] chore(ui): fix memory leak in simulation runner
