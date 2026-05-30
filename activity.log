@@ -1,1 +1,1 @@
-[2026-05-31T05:10:45] feat(ci): align table headers in UI dashboard
+[2026-05-31T05:15:44] fix(ui): fix memory leak in simulation runner
