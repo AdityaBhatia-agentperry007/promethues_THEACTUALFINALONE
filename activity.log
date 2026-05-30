@@ -1,1 +1,1 @@
-[2026-05-30T14:38:22] refactor(tests): improve error messages for CLI commands
+[2026-05-30T14:41:06] refactor(ci): add error handling for invalid input
