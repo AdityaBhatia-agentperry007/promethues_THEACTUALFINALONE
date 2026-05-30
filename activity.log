@@ -1,1 +1,1 @@
-[2026-05-30T07:51:36] fix(backend): reduce memory footprint of checkpoints
+[2026-05-30T07:55:35] chore(frontend): handle exception in connection pool
