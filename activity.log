@@ -1,1 +1,1 @@
-[2026-05-30T15:28:02] fix(backend): fix memory leak in simulation runner
+[2026-05-30T15:31:08] docs(backend): add integration test for PIR
