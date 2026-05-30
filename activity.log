@@ -1,1 +1,1 @@
-[2026-05-31T04:28:15] chore(backend): optimize canvas rendering loop
+[2026-05-31T04:29:03] style(backend): handle exception in connection pool
