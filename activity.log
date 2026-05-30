@@ -1,1 +1,1 @@
-[2026-05-31T04:26:01] fix(frontend): fix memory leak in simulation runner
+[2026-05-31T04:28:15] chore(backend): optimize canvas rendering loop
