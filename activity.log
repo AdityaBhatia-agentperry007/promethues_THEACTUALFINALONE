@@ -1,1 +1,1 @@
-[2026-05-30T11:42:58] fix(frontend): add error handling for invalid input
+[2026-05-30T11:44:11] style(tests): fix memory leak in simulation runner
