@@ -1,1 +1,1 @@
-[2026-05-31T01:10:13] style(ui): optimize canvas rendering loop
+[2026-05-31T01:16:39] perf(frontend): resolve edge case in simulation
