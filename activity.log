@@ -1,1 +1,1 @@
-[2026-05-31T16:54:18] style(ui): refactor rendering logic
+[2026-05-31T17:02:07] perf(frontend): reduce memory footprint of checkpoints
