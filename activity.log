@@ -1,1 +1,1 @@
-[2026-06-01T02:26:24] docs(pir): update runbook with port settings
+[2026-06-01T02:28:04] docs(emulator): fix memory leak in simulation runner
