@@ -1,1 +1,1 @@
-[2026-06-01T05:00:15] style(mpc): fix typing issues in backend app
+[2026-06-01T05:06:59] feat(backend): handle exception in connection pool
