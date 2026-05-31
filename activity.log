@@ -1,1 +1,1 @@
-[2026-06-01T03:23:39] feat(ci): update environment variable placeholders
+[2026-06-01T03:24:36] chore(backend): fix memory leak in simulation runner
