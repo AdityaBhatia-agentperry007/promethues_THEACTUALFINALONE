@@ -1,1 +1,1 @@
-[2026-05-31T19:11:24] feat(ui): fix memory leak in simulation runner
+[2026-05-31T19:13:28] test(cli): optimize database queries
