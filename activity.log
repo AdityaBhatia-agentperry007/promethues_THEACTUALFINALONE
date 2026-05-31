@@ -1,1 +1,1 @@
-[2026-05-31T14:29:38] style(frontend): streamline garbled circuit comparison
+[2026-05-31T14:35:46] refactor(emulator): add unit test for CGKS fallback
