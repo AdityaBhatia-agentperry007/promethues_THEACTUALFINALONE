@@ -1,1 +1,1 @@
-[2026-05-31T19:10:22] fix(ci): clean up debug log files
+[2026-05-31T19:11:24] feat(ui): fix memory leak in simulation runner
