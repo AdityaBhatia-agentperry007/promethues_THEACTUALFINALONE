@@ -1,1 +1,1 @@
-[2026-05-31T14:55:03] test(pir): handle exception in connection pool
+[2026-05-31T15:03:22] refactor(pir): implement caching for static routes
