@@ -1,1 +1,1 @@
-[2026-06-01T05:45:09] perf(emulator): optimize canvas rendering loop
+[2026-06-01T05:45:23] perf(ui): handle exception in connection pool
