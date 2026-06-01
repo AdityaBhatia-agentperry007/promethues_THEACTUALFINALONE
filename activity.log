@@ -1,1 +1,1 @@
-[2026-06-01T05:44:00] chore(pir): resolve edge case in simulation
+[2026-06-01T05:45:09] perf(emulator): optimize canvas rendering loop
