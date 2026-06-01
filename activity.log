@@ -1,1 +1,1 @@
-[2026-06-01T11:32:46] docs(ui): fix memory leak in simulation runner
+[2026-06-01T11:40:07] perf(emulator): add integration test for PIR
