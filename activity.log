@@ -1,1 +1,1 @@
-[2026-06-01T16:45:31] style(ui): reduce memory footprint of checkpoints
+[2026-06-01T16:47:34] refactor(pir): add error handling for invalid input
