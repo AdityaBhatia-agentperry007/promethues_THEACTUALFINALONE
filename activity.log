@@ -1,1 +1,1 @@
-[2026-06-02T10:24:10] perf(ui): adjust margin spacing
+[2026-06-02T10:29:30] fix(cli): fix memory leak in simulation runner
