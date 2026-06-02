@@ -1,1 +1,1 @@
-[2026-06-02T11:17:47] feat(ui): optimize canvas rendering loop
+[2026-06-02T11:24:06] perf(frontend): reduce memory footprint of checkpoints
