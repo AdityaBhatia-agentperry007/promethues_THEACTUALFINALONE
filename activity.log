@@ -1,1 +1,1 @@
-[2026-06-02T11:24:06] perf(frontend): reduce memory footprint of checkpoints
+[2026-06-02T11:32:07] chore(pir): fix memory leak in simulation runner
