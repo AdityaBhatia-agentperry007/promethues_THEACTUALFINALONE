@@ -1,1 +1,1 @@
-[2026-06-02T09:15:20] chore(pir): improve error messages for CLI commands
+[2026-06-02T09:19:31] style(backend): fix memory leak in simulation runner
