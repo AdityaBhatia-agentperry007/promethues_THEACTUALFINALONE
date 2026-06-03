@@ -1,1 +1,1 @@
-[2026-06-03T13:16:05] style(ci): fix memory leak in simulation runner
+[2026-06-03T13:19:48] fix(emulator): optimize physics-as-a-service latency
