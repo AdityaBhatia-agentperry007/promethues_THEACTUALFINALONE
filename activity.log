@@ -1,1 +1,1 @@
-[2026-06-03T14:32:53] perf(docs): optimize array boundary checks
+[2026-06-03T14:41:17] perf(backend): add integration test for PIR
