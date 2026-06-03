@@ -1,1 +1,1 @@
-[2026-06-03T10:26:46] test(mpc): update runbook with port settings
+[2026-06-03T10:29:45] chore(ui): fix memory leak in simulation runner
