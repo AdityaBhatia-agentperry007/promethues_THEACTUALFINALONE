@@ -1,1 +1,1 @@
-[2026-06-04T02:49:00] chore(frontend): add integration test for PIR
+[2026-06-04T02:55:25] fix(frontend): fix memory leak in simulation runner
