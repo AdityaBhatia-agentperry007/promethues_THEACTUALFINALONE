@@ -1,1 +1,1 @@
-[2026-06-03T13:01:45] test(cli): reduce memory footprint of checkpoints
+[2026-06-03T13:06:58] refactor(mpc): add unit test for CGKS fallback
