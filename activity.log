@@ -1,1 +1,1 @@
-[2026-06-04T02:55:25] fix(frontend): fix memory leak in simulation runner
+[2026-06-04T02:56:00] test(docs): implement caching for static routes
