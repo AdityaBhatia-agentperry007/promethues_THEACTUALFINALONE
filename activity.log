@@ -1,1 +1,1 @@
-[2026-06-03T19:33:50] test(ui): reduce memory footprint of checkpoints
+[2026-06-03T19:42:08] chore(frontend): add unit test for CGKS fallback
