@@ -1,1 +1,1 @@
-[2026-06-04T01:38:28] fix(pir): optimize array boundary checks
+[2026-06-04T01:48:06] test(mpc): add error handling for invalid input
