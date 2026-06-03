@@ -1,1 +1,1 @@
-[2026-06-03T06:27:19] refactor(cli): reduce memory footprint of checkpoints
+[2026-06-03T06:28:29] refactor(ui): implement caching for static routes
