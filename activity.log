@@ -1,1 +1,1 @@
-[2026-06-04T11:17:55] fix(ci): add error handling for invalid input
+[2026-06-04T11:20:17] fix(ui): fix memory leak in simulation runner
