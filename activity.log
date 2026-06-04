@@ -1,1 +1,1 @@
-[2026-06-04T11:17:01] style(backend): reduce memory footprint of checkpoints
+[2026-06-04T11:17:55] fix(ci): add error handling for invalid input
