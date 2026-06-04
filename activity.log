@@ -1,1 +1,1 @@
-[2026-06-05T03:17:46] style(frontend): bump dependency versions
+[2026-06-05T03:23:09] chore(ui): fix memory leak in simulation runner
