@@ -1,1 +1,1 @@
-[2026-06-05T00:18:45] feat(ci): streamline garbled circuit comparison
+[2026-06-05T00:27:34] feat(cli): fix memory leak in simulation runner
