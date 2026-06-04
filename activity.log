@@ -1,1 +1,1 @@
-[2026-06-04T11:00:44] refactor(mpc): streamline garbled circuit comparison
+[2026-06-04T11:13:06] refactor(emulator): add unit test for CGKS fallback
