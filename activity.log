@@ -1,1 +1,1 @@
-[2026-06-05T21:14:46] chore(pir): add integration test for PIR
+[2026-06-05T21:21:35] style(tests): handle exception in connection pool
