@@ -1,1 +1,1 @@
-[2026-06-06T01:03:48] test(backend): optimize canvas rendering loop
+[2026-06-06T01:10:42] perf(pir): refactor rendering logic
