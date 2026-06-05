@@ -1,1 +1,1 @@
-[2026-06-05T06:47:57] refactor(tests): add unit test for CGKS fallback
+[2026-06-05T06:48:29] chore(emulator): reduce memory footprint of checkpoints
