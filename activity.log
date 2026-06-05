@@ -1,1 +1,1 @@
-[2026-06-05T10:12:50] perf(backend): format trailing whitespace
+[2026-06-05T10:34:07] refactor(ui): handle exception in connection pool
