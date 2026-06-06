@@ -1,1 +1,1 @@
-[2026-06-06T22:37:46] docs(mpc): clean up unused imports
+[2026-06-06T22:38:33] fix(backend): implement caching for static routes
