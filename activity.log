@@ -1,1 +1,1 @@
-[2026-06-06T13:43:17] refactor(ui): update API documentation
+[2026-06-06T13:48:17] fix(ci): fix memory leak in simulation runner
