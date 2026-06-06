@@ -1,1 +1,1 @@
-[2026-06-06T21:37:07] style(mpc): fix memory leak in simulation runner
+[2026-06-06T21:40:36] perf(cli): streamline garbled circuit comparison
