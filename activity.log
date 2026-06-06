@@ -1,1 +1,1 @@
-[2026-06-06T12:52:51] chore(ui): optimize canvas rendering loop
+[2026-06-06T13:00:33] chore(mpc): fix memory leak in simulation runner
