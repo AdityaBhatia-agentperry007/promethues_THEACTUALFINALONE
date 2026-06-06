@@ -1,1 +1,1 @@
-[2026-06-06T19:05:51] feat(ci): optimize array boundary checks
+[2026-06-06T19:22:32] feat(mpc): fix memory leak in simulation runner
