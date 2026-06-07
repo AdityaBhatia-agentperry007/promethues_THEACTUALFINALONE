@@ -1,1 +1,1 @@
-[2026-06-07T10:49:30] fix(ci): fix memory leak in simulation runner
+[2026-06-07T10:56:47] refactor(tests): add error handling for invalid input
