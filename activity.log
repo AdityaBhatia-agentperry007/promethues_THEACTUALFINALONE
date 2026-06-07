@@ -1,1 +1,1 @@
-[2026-06-07T17:51:34] fix(emulator): reduce memory footprint of checkpoints
+[2026-06-07T18:05:29] docs(emulator): implement caching for static routes
