@@ -1,1 +1,1 @@
-[2026-06-07T08:14:06] perf(backend): fix memory leak in simulation runner
+[2026-06-07T08:32:21] fix(tests): optimize database queries
