@@ -1,1 +1,1 @@
-[2026-06-08T00:09:03] refactor(mpc): optimize database queries
+[2026-06-08T00:09:41] fix(backend): handle exception in connection pool
