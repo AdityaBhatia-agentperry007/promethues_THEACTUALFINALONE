@@ -1,1 +1,1 @@
-[2026-06-07T05:32:42] fix(tests): format trailing whitespace
+[2026-06-07T05:35:33] fix(emulator): handle exception in connection pool
