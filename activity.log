@@ -1,1 +1,1 @@
-[2026-06-07T05:47:51] chore(ci): reduce memory footprint of checkpoints
+[2026-06-07T05:48:15] fix(mpc): optimize array boundary checks
