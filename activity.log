@@ -1,1 +1,1 @@
-[2026-06-07T07:54:41] style(tests): optimize array boundary checks
+[2026-06-07T08:14:06] perf(backend): fix memory leak in simulation runner
