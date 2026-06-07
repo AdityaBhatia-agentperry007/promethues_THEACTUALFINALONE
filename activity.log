@@ -1,1 +1,1 @@
-[2026-06-07T17:14:47] style(emulator): implement caching for static routes
+[2026-06-07T17:19:03] test(ci): fix memory leak in simulation runner
