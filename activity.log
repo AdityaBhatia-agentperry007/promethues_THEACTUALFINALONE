@@ -1,1 +1,1 @@
-[2026-06-07T19:43:27] style(pir): update license headers in source files
+[2026-06-07T19:47:06] test(cli): handle exception in connection pool
