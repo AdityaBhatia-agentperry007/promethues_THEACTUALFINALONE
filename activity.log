@@ -1,1 +1,1 @@
-[2026-06-07T18:47:55] perf(emulator): optimize database queries
+[2026-06-07T19:03:32] perf(mpc): add unit test for CGKS fallback
