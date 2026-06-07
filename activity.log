@@ -1,1 +1,1 @@
-[2026-06-07T15:28:16] chore(mpc): improve error messages for CLI commands
+[2026-06-07T15:31:55] test(tests): fix memory leak in simulation runner
