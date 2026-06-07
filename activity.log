@@ -1,1 +1,1 @@
-[2026-06-07T10:17:37] test(mpc): optimize canvas rendering loop
+[2026-06-07T10:20:48] perf(frontend): optimize array boundary checks
