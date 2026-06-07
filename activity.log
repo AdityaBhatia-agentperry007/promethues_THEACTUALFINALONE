@@ -1,1 +1,1 @@
-[2026-06-07T10:49:22] feat(emulator): improve mobile responsiveness
+[2026-06-07T10:49:30] fix(ci): fix memory leak in simulation runner
