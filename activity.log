@@ -1,1 +1,1 @@
-[2026-06-08T17:11:42] style(cli): update runbook with port settings
+[2026-06-08T17:16:43] docs(mpc): fix memory leak in simulation runner
