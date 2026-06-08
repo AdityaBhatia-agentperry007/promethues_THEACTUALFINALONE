@@ -1,1 +1,1 @@
-[2026-06-08T15:30:49] docs(emulator): update runbook with port settings
+[2026-06-08T15:38:55] refactor(ci): handle exception in connection pool
