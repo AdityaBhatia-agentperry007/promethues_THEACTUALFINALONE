@@ -1,1 +1,1 @@
-[2026-06-08T20:51:07] chore(emulator): improve error messages for CLI commands
+[2026-06-08T20:56:40] style(mpc): handle exception in connection pool
