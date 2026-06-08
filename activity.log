@@ -1,1 +1,1 @@
-[2026-06-08T07:37:36] feat(docs): format trailing whitespace
+[2026-06-08T07:41:05] refactor(backend): fix memory leak in simulation runner
