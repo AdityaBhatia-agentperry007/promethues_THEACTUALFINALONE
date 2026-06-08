@@ -1,1 +1,1 @@
-[2026-06-08T12:21:22] docs(cli): resolve edge case in simulation
+[2026-06-08T12:22:31] fix(tests): add unit test for CGKS fallback
