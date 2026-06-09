@@ -1,1 +1,1 @@
-[2026-06-09T14:43:28] refactor(pir): reduce memory footprint of checkpoints
+[2026-06-09T14:55:35] fix(backend): fix memory leak in simulation runner
