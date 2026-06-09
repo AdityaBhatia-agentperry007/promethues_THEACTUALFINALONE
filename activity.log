@@ -1,1 +1,1 @@
-[2026-06-09T11:18:12] style(docs): clean up unused imports
+[2026-06-09T11:26:04] style(frontend): fix memory leak in simulation runner
