@@ -1,1 +1,1 @@
-[2026-06-09T18:10:37] perf(cli): improve logging clarity
+[2026-06-09T18:11:00] chore(tests): fix memory leak in simulation runner
