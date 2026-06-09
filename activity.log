@@ -1,1 +1,1 @@
-[2026-06-10T00:22:10] docs(ui): update environment variable placeholders
+[2026-06-10T00:31:37] chore(backend): fix memory leak in simulation runner
