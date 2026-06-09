@@ -1,1 +1,1 @@
-[2026-06-10T05:07:07] fix(ci): fix memory leak in simulation runner
+[2026-06-10T05:11:52] perf(ui): align table headers in UI dashboard
