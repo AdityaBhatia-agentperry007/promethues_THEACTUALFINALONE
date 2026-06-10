@@ -1,1 +1,1 @@
-[2026-06-10T15:40:26] chore(mpc): improve mobile responsiveness
+[2026-06-10T15:46:16] fix(mpc): fix memory leak in simulation runner
