@@ -1,1 +1,1 @@
-[2026-06-10T13:40:19] feat(frontend): fix memory leak in simulation runner
+[2026-06-10T13:42:18] perf(emulator): add integration test for PIR
