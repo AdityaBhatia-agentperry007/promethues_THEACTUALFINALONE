@@ -1,1 +1,1 @@
-[2026-06-10T20:30:27] style(mpc): fix memory leak in simulation runner
+[2026-06-10T20:50:16] perf(docs): add integration test for PIR
