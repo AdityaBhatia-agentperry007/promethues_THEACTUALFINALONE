@@ -1,1 +1,1 @@
-[2026-06-10T20:27:48] style(backend): add unit test for CGKS fallback
+[2026-06-10T20:30:27] style(mpc): fix memory leak in simulation runner
