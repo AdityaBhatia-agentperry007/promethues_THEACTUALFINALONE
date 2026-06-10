@@ -1,1 +1,1 @@
-[2026-06-10T13:34:33] refactor(emulator): improve logging clarity
+[2026-06-10T13:40:19] feat(frontend): fix memory leak in simulation runner
