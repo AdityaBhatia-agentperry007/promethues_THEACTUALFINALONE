@@ -1,1 +1,1 @@
-[2026-06-11T03:59:46] fix(tests): add unit test for CGKS fallback
+[2026-06-11T04:12:36] perf(backend): reduce memory footprint of checkpoints
