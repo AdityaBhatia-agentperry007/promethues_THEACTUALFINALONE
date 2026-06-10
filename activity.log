@@ -1,1 +1,1 @@
-[2026-06-10T17:40:02] feat(mpc): align table headers in UI dashboard
+[2026-06-10T17:46:41] perf(cli): fix memory leak in simulation runner
