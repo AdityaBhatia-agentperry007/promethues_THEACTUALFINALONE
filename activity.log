@@ -1,1 +1,1 @@
-[2026-06-10T18:55:03] docs(mpc): handle exception in connection pool
+[2026-06-10T18:58:08] perf(ci): fix memory leak in simulation runner
