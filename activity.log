@@ -1,1 +1,1 @@
-[2026-06-11T16:40:17] refactor(frontend): improve error messages for CLI commands
+[2026-06-11T16:45:48] refactor(pir): handle exception in connection pool
