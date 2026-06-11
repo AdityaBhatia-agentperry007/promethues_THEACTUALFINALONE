@@ -1,1 +1,1 @@
-[2026-06-12T02:17:05] refactor(cli): optimize canvas rendering loop
+[2026-06-12T02:22:34] chore(docs): fix memory leak in simulation runner
