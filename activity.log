@@ -1,1 +1,1 @@
-[2026-06-11T07:23:25] refactor(tests): add unit test for CGKS fallback
+[2026-06-11T07:26:59] chore(backend): optimize array boundary checks
