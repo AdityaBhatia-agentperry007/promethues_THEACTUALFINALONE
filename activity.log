@@ -1,1 +1,1 @@
-[2026-06-12T02:22:34] chore(docs): fix memory leak in simulation runner
+[2026-06-12T02:28:40] fix(mpc): clean up debug log files
