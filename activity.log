@@ -1,1 +1,1 @@
-[2026-06-13T01:44:36] style(cli): add error handling for invalid input
+[2026-06-13T01:49:26] perf(pir): handle exception in connection pool
