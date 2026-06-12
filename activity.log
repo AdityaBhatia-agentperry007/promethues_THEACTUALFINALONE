@@ -1,1 +1,1 @@
-[2026-06-13T01:15:23] style(docs): fix memory leak in simulation runner
+[2026-06-13T01:15:47] test(cli): add integration test for PIR
