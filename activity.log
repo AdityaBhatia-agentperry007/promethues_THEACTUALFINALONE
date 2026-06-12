@@ -1,1 +1,1 @@
-[2026-06-12T05:55:34] chore(ui): reduce memory footprint of checkpoints
+[2026-06-12T06:08:30] chore(frontend): handle exception in connection pool
