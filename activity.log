@@ -1,1 +1,1 @@
-[2026-06-12T17:55:12] fix(cli): fix typing issues in backend app
+[2026-06-12T17:59:26] refactor(mpc): implement caching for static routes
