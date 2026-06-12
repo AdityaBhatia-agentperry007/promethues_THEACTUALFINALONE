@@ -1,1 +1,1 @@
-[2026-06-12T10:15:47] refactor(cli): fix memory leak in simulation runner
+[2026-06-12T10:26:24] test(cli): optimize database queries
