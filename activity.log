@@ -1,1 +1,1 @@
-[2026-06-13T20:14:46] docs(emulator): fix memory leak in simulation runner
+[2026-06-13T20:27:25] refactor(emulator): update runbook with port settings
