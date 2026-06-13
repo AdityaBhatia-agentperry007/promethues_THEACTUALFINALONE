@@ -1,1 +1,1 @@
-[2026-06-13T11:46:05] perf(backend): fix typing issues in backend app
+[2026-06-13T12:01:10] refactor(backend): reduce memory footprint of checkpoints
