@@ -1,1 +1,1 @@
-[2026-06-14T00:29:54] perf(backend): refactor rendering logic
+[2026-06-14T01:08:46] fix(frontend): fix memory leak in simulation runner
