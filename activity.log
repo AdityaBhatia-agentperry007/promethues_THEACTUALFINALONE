@@ -1,1 +1,1 @@
-[2026-06-14T02:55:09] docs(ci): optimize canvas rendering loop
+[2026-06-14T03:03:25] perf(docs): fix memory leak in simulation runner
