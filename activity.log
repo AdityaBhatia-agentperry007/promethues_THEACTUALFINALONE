@@ -1,1 +1,1 @@
-[2026-06-14T01:51:55] docs(cli): refactor rendering logic
+[2026-06-14T02:16:43] feat(docs): fix memory leak in simulation runner
