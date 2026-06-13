@@ -1,1 +1,1 @@
-[2026-06-14T03:11:57] perf(cli): fix memory leak in simulation runner
+[2026-06-14T03:29:16] test(cli): update environment variable placeholders
