@@ -1,1 +1,1 @@
-[2026-06-13T20:02:37] feat(pir): refactor rendering logic
+[2026-06-13T20:14:46] docs(emulator): fix memory leak in simulation runner
