@@ -1,1 +1,1 @@
-[2026-06-13T10:37:00] feat(tests): fix memory leak in simulation runner
+[2026-06-13T10:46:03] docs(mpc): handle exception in connection pool
