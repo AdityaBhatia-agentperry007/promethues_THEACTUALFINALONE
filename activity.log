@@ -1,1 +1,1 @@
-[2026-06-13T13:47:41] feat(backend): optimize database queries
+[2026-06-13T14:00:00] feat(docs): fix memory leak in simulation runner
