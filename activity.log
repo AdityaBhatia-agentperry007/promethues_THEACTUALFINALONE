@@ -1,1 +1,1 @@
-[2026-06-14T18:23:33] fix(docs): optimize canvas rendering loop
+[2026-06-14T18:24:21] docs(ui): fix memory leak in simulation runner
