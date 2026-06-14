@@ -1,1 +1,1 @@
-[2026-06-14T12:57:14] refactor(ui): resolve edge case in simulation
+[2026-06-14T13:15:11] docs(cli): fix memory leak in simulation runner
