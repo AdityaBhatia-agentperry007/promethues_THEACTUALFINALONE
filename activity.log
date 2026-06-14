@@ -1,1 +1,1 @@
-[2026-06-14T06:54:06] feat(frontend): fix memory leak in simulation runner
+[2026-06-14T06:54:12] perf(tests): align table headers in UI dashboard
