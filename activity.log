@@ -1,1 +1,1 @@
-[2026-06-15T01:37:47] fix(backend): clean up debug log files
+[2026-06-15T01:45:22] style(ci): reduce memory footprint of checkpoints
