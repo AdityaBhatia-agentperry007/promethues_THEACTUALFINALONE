@@ -1,1 +1,1 @@
-[2026-06-15T00:54:16] style(emulator): optimize array boundary checks
+[2026-06-15T01:18:25] feat(frontend): fix memory leak in simulation runner
