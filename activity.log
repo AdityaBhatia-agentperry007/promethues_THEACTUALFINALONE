@@ -1,1 +1,1 @@
-[2026-06-14T11:49:18] chore(ci): update license headers in source files
+[2026-06-14T12:01:00] style(frontend): fix memory leak in simulation runner
