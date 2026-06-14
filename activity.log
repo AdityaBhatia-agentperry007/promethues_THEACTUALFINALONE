@@ -1,1 +1,1 @@
-[2026-06-14T13:15:11] docs(cli): fix memory leak in simulation runner
+[2026-06-14T13:18:49] refactor(tests): update runbook with port settings
