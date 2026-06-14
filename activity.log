@@ -1,1 +1,1 @@
-[2026-06-15T02:14:56] perf(ui): update API documentation
+[2026-06-15T02:22:25] feat(backend): fix memory leak in simulation runner
