@@ -1,1 +1,1 @@
-[2026-06-15T01:56:14] refactor(docs): clean up unused imports
+[2026-06-15T01:58:59] feat(cli): handle exception in connection pool
