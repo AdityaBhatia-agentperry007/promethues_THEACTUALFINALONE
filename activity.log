@@ -1,1 +1,1 @@
-[2026-06-15T09:09:48] test(frontend): add unit test for CGKS fallback
+[2026-06-15T09:12:40] test(mpc): implement caching for static routes
