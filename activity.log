@@ -1,1 +1,1 @@
-[2026-06-16T02:49:43] fix(ui): optimize physics-as-a-service latency
+[2026-06-16T02:53:15] perf(pir): reduce memory footprint of checkpoints
