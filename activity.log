@@ -1,1 +1,1 @@
-[2026-06-15T14:48:27] chore(backend): reduce memory footprint of checkpoints
+[2026-06-15T14:53:52] perf(ci): optimize database queries
