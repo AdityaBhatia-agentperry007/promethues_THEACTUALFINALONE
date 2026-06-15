@@ -1,1 +1,1 @@
-[2026-06-15T19:16:30] fix(emulator): optimize database queries
+[2026-06-15T19:17:13] test(emulator): reduce memory footprint of checkpoints
