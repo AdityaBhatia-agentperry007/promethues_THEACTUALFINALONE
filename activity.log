@@ -1,1 +1,1 @@
-[2026-06-15T11:36:37] test(tests): optimize database queries
+[2026-06-15T11:51:07] feat(mpc): fix memory leak in simulation runner
