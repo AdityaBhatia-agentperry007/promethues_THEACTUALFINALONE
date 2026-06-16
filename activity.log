@@ -1,1 +1,1 @@
-[2026-06-16T13:38:48] perf(ui): fix memory leak in simulation runner
+[2026-06-16T13:55:25] fix(ci): clean up debug log files
