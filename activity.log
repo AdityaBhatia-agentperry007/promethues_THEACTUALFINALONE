@@ -1,1 +1,1 @@
-[2026-06-16T10:00:44] fix(mpc): add unit test for CGKS fallback
+[2026-06-16T10:03:15] perf(ci): clean up debug log files
