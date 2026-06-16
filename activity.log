@@ -1,1 +1,1 @@
-[2026-06-16T17:23:35] chore(backend): fix memory leak in simulation runner
+[2026-06-16T17:23:47] style(mpc): implement caching for static routes
