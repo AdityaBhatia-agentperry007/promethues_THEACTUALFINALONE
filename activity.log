@@ -1,1 +1,1 @@
-[2026-06-16T13:30:07] feat(ci): bump dependency versions
+[2026-06-16T13:38:48] perf(ui): fix memory leak in simulation runner
