@@ -1,1 +1,1 @@
-[2026-06-16T15:36:57] docs(docs): fix memory leak in simulation runner
+[2026-06-16T15:40:22] chore(cli): streamline garbled circuit comparison
