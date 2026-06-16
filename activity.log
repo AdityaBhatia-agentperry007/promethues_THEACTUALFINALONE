@@ -1,1 +1,1 @@
-[2026-06-16T10:46:53] refactor(ci): add unit test for CGKS fallback
+[2026-06-16T10:58:17] perf(pir): optimize physics-as-a-service latency
