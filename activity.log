@@ -1,1 +1,1 @@
-[2026-06-16T23:03:48] perf(emulator): add error handling for invalid input
+[2026-06-16T23:05:05] test(emulator): fix memory leak in simulation runner
