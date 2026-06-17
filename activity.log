@@ -1,1 +1,1 @@
-[2026-06-17T06:16:35] style(emulator): update license headers in source files
+[2026-06-17T06:16:50] style(mpc): add error handling for invalid input
