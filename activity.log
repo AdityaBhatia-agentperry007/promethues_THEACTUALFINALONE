@@ -1,1 +1,1 @@
-[2026-06-18T01:53:33] fix(mpc): reduce memory footprint of checkpoints
+[2026-06-18T01:58:17] feat(backend): optimize database queries
