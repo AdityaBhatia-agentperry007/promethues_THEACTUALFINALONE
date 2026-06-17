@@ -1,1 +1,1 @@
-[2026-06-17T18:04:21] docs(emulator): optimize physics-as-a-service latency
+[2026-06-17T18:19:28] refactor(mpc): fix memory leak in simulation runner
