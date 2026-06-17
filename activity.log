@@ -1,1 +1,1 @@
-[2026-06-17T06:15:58] refactor(frontend): implement caching for static routes
+[2026-06-17T06:16:23] test(backend): fix memory leak in simulation runner
