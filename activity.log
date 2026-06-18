@@ -1,1 +1,1 @@
-[2026-06-18T20:57:43] docs(pir): optimize canvas rendering loop
+[2026-06-18T20:58:20] feat(docs): fix memory leak in simulation runner
