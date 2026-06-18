@@ -1,1 +1,1 @@
-[2026-06-18T10:37:54] feat(ci): add support for additional presets
+[2026-06-18T10:39:53] fix(emulator): handle exception in connection pool
