@@ -1,1 +1,1 @@
-[2026-06-19T03:59:41] perf(frontend): implement caching for static routes
+[2026-06-19T04:00:22] fix(mpc): handle exception in connection pool
