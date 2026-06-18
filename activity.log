@@ -1,1 +1,1 @@
-[2026-06-18T09:43:03] refactor(tests): refactor DPF key generation
+[2026-06-18T09:44:23] fix(ci): fix memory leak in simulation runner
