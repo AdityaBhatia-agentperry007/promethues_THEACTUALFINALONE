@@ -1,1 +1,1 @@
-[2026-06-18T23:52:55] chore(ci): handle exception in connection pool
+[2026-06-19T00:02:10] style(backend): fix memory leak in simulation runner
