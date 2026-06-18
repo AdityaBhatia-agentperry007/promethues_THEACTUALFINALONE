@@ -1,1 +1,1 @@
-[2026-06-18T05:32:12] test(ci): optimize physics-as-a-service latency
+[2026-06-18T05:39:05] fix(frontend): fix memory leak in simulation runner
