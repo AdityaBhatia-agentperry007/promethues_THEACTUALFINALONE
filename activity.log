@@ -1,1 +1,1 @@
-[2026-06-18T22:50:33] chore(emulator): streamline garbled circuit comparison
+[2026-06-18T23:01:44] feat(emulator): fix memory leak in simulation runner
