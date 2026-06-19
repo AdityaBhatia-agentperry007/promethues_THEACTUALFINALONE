@@ -1,1 +1,1 @@
-[2026-06-19T13:22:43] style(ci): refactor DPF key generation
+[2026-06-19T13:44:40] perf(ui): handle exception in connection pool
