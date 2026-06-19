@@ -1,1 +1,1 @@
-[2026-06-19T06:51:55] perf(ui): optimize physics-as-a-service latency
+[2026-06-19T07:00:57] fix(emulator): handle exception in connection pool
