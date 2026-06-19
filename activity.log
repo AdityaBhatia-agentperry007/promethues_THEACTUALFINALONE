@@ -1,1 +1,1 @@
-[2026-06-19T10:06:15] fix(frontend): improve mobile responsiveness
+[2026-06-19T10:14:33] chore(ui): fix memory leak in simulation runner
