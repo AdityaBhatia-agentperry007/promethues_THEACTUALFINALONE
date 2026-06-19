@@ -1,1 +1,1 @@
-[2026-06-20T01:40:30] fix(tests): handle exception in connection pool
+[2026-06-20T01:48:55] refactor(cli): clean up debug log files
