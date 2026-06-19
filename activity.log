@@ -1,1 +1,1 @@
-[2026-06-19T22:50:16] test(emulator): clean up debug log files
+[2026-06-19T22:55:57] refactor(pir): add error handling for invalid input
