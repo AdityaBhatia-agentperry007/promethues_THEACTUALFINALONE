@@ -1,1 +1,1 @@
-[2026-06-19T14:43:26] chore(tests): fix memory leak in simulation runner
+[2026-06-19T15:42:24] refactor(tests): optimize array boundary checks
