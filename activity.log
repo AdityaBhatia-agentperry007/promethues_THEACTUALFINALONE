@@ -1,1 +1,1 @@
-[2026-06-19T19:06:41] perf(ci): update environment variable placeholders
+[2026-06-19T19:08:02] fix(frontend): add unit test for CGKS fallback
