@@ -1,1 +1,1 @@
-[2026-06-19T16:59:44] fix(backend): improve logging clarity
+[2026-06-19T17:03:46] feat(pir): fix memory leak in simulation runner
