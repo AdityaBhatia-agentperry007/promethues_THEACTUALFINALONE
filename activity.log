@@ -1,1 +1,1 @@
-[2026-06-19T19:26:33] chore(ci): fix memory leak in simulation runner
+[2026-06-19T19:32:47] test(cli): add support for additional presets
