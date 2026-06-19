@@ -1,1 +1,1 @@
-[2026-06-20T05:26:05] perf(emulator): refactor DPF key generation
+[2026-06-20T05:29:58] perf(emulator): fix memory leak in simulation runner
