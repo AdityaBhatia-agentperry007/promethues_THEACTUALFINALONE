@@ -1,1 +1,1 @@
-[2026-06-19T05:49:12] fix(cli): add integration test for PIR
+[2026-06-19T05:50:59] test(mpc): add error handling for invalid input
