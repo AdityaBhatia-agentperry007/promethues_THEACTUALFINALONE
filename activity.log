@@ -1,1 +1,1 @@
-[2026-06-19T12:17:25] refactor(ui): fix memory leak in simulation runner
+[2026-06-19T12:18:41] docs(pir): reduce memory footprint of checkpoints
