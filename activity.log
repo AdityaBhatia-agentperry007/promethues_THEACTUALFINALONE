@@ -1,1 +1,1 @@
-[2026-06-19T13:47:55] chore(cli): handle exception in connection pool
+[2026-06-19T13:50:48] feat(backend): reduce memory footprint of checkpoints
