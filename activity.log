@@ -1,1 +1,1 @@
-[2026-06-19T12:10:59] feat(mpc): implement caching for static routes
+[2026-06-19T12:17:25] refactor(ui): fix memory leak in simulation runner
