@@ -1,1 +1,1 @@
-[2026-06-21T03:24:17] perf(backend): update environment variable placeholders
+[2026-06-21T03:40:46] fix(ui): fix memory leak in simulation runner
