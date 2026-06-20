@@ -1,1 +1,1 @@
-[2026-06-20T21:38:06] fix(cli): clean up debug log files
+[2026-06-20T21:44:31] perf(emulator): optimize canvas rendering loop
