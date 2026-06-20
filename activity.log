@@ -1,1 +1,1 @@
-[2026-06-20T22:44:45] perf(mpc): add error handling for invalid input
+[2026-06-20T22:59:09] chore(cli): improve error messages for CLI commands
