@@ -1,1 +1,1 @@
-[2026-06-21T21:14:47] fix(docs): handle exception in connection pool
+[2026-06-21T21:16:24] style(backend): add error handling for invalid input
