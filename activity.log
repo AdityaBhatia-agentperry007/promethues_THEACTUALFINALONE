@@ -1,1 +1,1 @@
-[2026-06-21T08:46:05] chore(mpc): improve error messages for CLI commands
+[2026-06-21T08:46:29] style(mpc): add error handling for invalid input
