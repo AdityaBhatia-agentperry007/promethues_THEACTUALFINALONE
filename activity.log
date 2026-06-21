@@ -1,1 +1,1 @@
-[2026-06-21T18:37:44] docs(pir): improve error messages for CLI commands
+[2026-06-21T18:46:00] perf(emulator): fix memory leak in simulation runner
