@@ -1,1 +1,1 @@
-[2026-06-21T08:46:29] style(mpc): add error handling for invalid input
+[2026-06-21T08:54:06] fix(frontend): optimize array boundary checks
