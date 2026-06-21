@@ -1,1 +1,1 @@
-[2026-06-22T00:13:25] feat(emulator): optimize database queries
+[2026-06-22T00:19:44] feat(ui): handle exception in connection pool
