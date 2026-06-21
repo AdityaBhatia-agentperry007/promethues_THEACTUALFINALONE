@@ -1,1 +1,1 @@
-[2026-06-21T19:17:34] feat(cli): improve error messages for CLI commands
+[2026-06-21T19:22:04] feat(backend): add error handling for invalid input
