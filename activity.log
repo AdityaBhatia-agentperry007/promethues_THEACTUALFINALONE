@@ -1,1 +1,1 @@
-[2026-06-22T01:00:53] chore(cli): add error handling for invalid input
+[2026-06-22T01:03:23] style(backend): handle exception in connection pool
