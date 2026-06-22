@@ -1,1 +1,1 @@
-[2026-06-22T12:23:16] feat(docs): optimize array boundary checks
+[2026-06-22T12:33:47] refactor(tests): fix memory leak in simulation runner
