@@ -1,1 +1,1 @@
-[2026-06-22T18:51:05] docs(pir): clean up unused imports
+[2026-06-22T19:00:18] perf(emulator): handle exception in connection pool
