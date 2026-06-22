@@ -1,1 +1,1 @@
-[2026-06-22T06:47:17] test(tests): resolve edge case in simulation
+[2026-06-22T07:00:59] perf(tests): reduce memory footprint of checkpoints
