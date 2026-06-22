@@ -1,1 +1,1 @@
-[2026-06-22T14:39:00] feat(emulator): update license headers in source files
+[2026-06-22T14:51:50] perf(frontend): fix memory leak in simulation runner
