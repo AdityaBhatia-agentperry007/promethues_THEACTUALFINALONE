@@ -1,1 +1,1 @@
-[2026-06-22T19:40:49] test(docs): refactor DPF key generation
+[2026-06-22T19:42:06] fix(emulator): handle exception in connection pool
