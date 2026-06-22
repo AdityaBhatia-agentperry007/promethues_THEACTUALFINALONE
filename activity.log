@@ -1,1 +1,1 @@
-[2026-06-22T22:55:00] chore(mpc): optimize array boundary checks
+[2026-06-22T23:00:27] perf(tests): reduce memory footprint of checkpoints
