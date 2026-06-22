@@ -1,1 +1,1 @@
-[2026-06-22T19:37:34] fix(emulator): improve error messages for CLI commands
+[2026-06-22T19:40:28] perf(backend): add error handling for invalid input
