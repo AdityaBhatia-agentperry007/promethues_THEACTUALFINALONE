@@ -1,1 +1,1 @@
-[2026-06-22T11:52:37] docs(tests): clean up unused imports
+[2026-06-22T11:53:07] fix(ui): handle exception in connection pool
