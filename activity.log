@@ -1,1 +1,1 @@
-[2026-06-23T21:21:02] style(backend): handle exception in connection pool
+[2026-06-23T21:44:02] perf(frontend): add unit test for CGKS fallback
