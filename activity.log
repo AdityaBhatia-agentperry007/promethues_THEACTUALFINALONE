@@ -1,1 +1,1 @@
-[2026-06-23T07:00:53] fix(docs): fix memory leak in simulation runner
+[2026-06-23T07:11:48] feat(docs): reduce memory footprint of checkpoints
