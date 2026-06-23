@@ -1,1 +1,1 @@
-[2026-06-23T12:00:45] perf(tests): optimize array boundary checks
+[2026-06-23T12:01:38] refactor(emulator): handle exception in connection pool
