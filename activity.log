@@ -1,1 +1,1 @@
-[2026-06-23T23:42:35] style(frontend): fix memory leak in simulation runner
+[2026-06-23T23:46:23] chore(pir): implement caching for static routes
