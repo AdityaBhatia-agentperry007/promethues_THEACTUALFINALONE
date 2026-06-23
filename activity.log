@@ -1,1 +1,1 @@
-[2026-06-23T20:05:16] docs(backend): add error handling for invalid input
+[2026-06-23T20:06:01] chore(emulator): fix memory leak in simulation runner
