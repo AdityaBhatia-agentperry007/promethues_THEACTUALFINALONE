@@ -1,1 +1,1 @@
-[2026-06-23T05:56:48] style(ui): optimize canvas rendering loop
+[2026-06-23T05:57:12] perf(tests): optimize array boundary checks
