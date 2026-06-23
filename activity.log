@@ -1,1 +1,1 @@
-[2026-06-23T22:55:55] perf(backend): streamline garbled circuit comparison
+[2026-06-23T22:56:17] perf(pir): add unit test for CGKS fallback
