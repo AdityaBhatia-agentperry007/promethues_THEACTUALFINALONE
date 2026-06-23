@@ -1,1 +1,1 @@
-[2026-06-23T11:13:09] fix(pir): handle exception in connection pool
+[2026-06-23T11:29:35] test(cli): handle exception in connection pool
