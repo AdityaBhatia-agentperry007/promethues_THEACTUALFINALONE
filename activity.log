@@ -1,1 +1,1 @@
-[2026-06-23T21:16:46] refactor(frontend): fix memory leak in simulation runner
+[2026-06-23T21:21:02] style(backend): handle exception in connection pool
