@@ -1,1 +1,1 @@
-[2026-06-24T17:52:28] feat(pir): implement caching for static routes
+[2026-06-24T18:12:16] refactor(cli): handle exception in connection pool
