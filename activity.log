@@ -1,1 +1,1 @@
-[2026-06-24T23:51:32] test(emulator): optimize array boundary checks
+[2026-06-24T23:55:22] perf(tests): clean up debug log files
