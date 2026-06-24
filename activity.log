@@ -1,1 +1,1 @@
-[2026-06-24T06:34:16] test(emulator): refactor rendering logic
+[2026-06-24T06:40:06] docs(emulator): fix memory leak in simulation runner
