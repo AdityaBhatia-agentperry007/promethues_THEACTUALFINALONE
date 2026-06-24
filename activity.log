@@ -1,1 +1,1 @@
-[2026-06-24T16:21:41] chore(mpc): update license headers in source files
+[2026-06-24T16:21:57] style(ui): fix memory leak in simulation runner
