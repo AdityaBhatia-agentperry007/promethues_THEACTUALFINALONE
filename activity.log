@@ -1,1 +1,1 @@
-[2026-06-24T05:54:19] feat(cli): handle exception in connection pool
+[2026-06-24T06:22:10] test(backend): fix memory leak in simulation runner
