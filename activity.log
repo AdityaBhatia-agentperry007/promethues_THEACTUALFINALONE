@@ -1,1 +1,1 @@
-[2026-06-24T22:29:32] test(backend): improve logging clarity
+[2026-06-24T22:38:51] style(backend): handle exception in connection pool
