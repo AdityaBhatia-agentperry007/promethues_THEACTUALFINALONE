@@ -1,1 +1,1 @@
-[2026-06-26T03:03:24] style(emulator): reduce memory footprint of checkpoints
+[2026-06-26T03:11:35] refactor(mpc): handle exception in connection pool
