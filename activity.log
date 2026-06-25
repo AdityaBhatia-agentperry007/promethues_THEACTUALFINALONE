@@ -1,1 +1,1 @@
-[2026-06-25T23:47:22] test(backend): reduce memory footprint of checkpoints
+[2026-06-25T23:53:56] fix(pir): optimize physics-as-a-service latency
