@@ -1,1 +1,1 @@
-[2026-06-26T12:26:10] style(mpc): clean up unused imports
+[2026-06-26T12:27:36] refactor(backend): add error handling for invalid input
