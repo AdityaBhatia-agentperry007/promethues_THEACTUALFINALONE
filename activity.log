@@ -1,1 +1,1 @@
-[2026-06-26T13:53:45] perf(pir): reduce memory footprint of checkpoints
+[2026-06-26T13:54:42] fix(backend): fix memory leak in simulation runner
