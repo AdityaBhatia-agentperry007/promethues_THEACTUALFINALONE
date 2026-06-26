@@ -1,1 +1,1 @@
-[2026-06-26T10:27:46] refactor(pir): fix memory leak in simulation runner
+[2026-06-26T10:30:30] test(docs): implement caching for static routes
