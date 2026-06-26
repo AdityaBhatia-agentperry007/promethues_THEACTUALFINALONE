@@ -1,1 +1,1 @@
-[2026-06-26T15:35:21] refactor(mpc): optimize array boundary checks
+[2026-06-26T15:41:32] perf(backend): resolve edge case in simulation
