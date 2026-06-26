@@ -1,1 +1,1 @@
-[2026-06-26T09:23:18] docs(backend): optimize canvas rendering loop
+[2026-06-26T09:31:32] refactor(mpc): handle exception in connection pool
