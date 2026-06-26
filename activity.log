@@ -1,1 +1,1 @@
-[2026-06-26T13:40:55] fix(emulator): handle exception in connection pool
+[2026-06-26T13:47:43] perf(tests): update environment variable placeholders
